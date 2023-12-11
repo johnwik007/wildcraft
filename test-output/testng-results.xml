@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-14T09:13:39 IST" name="Default suite" finished-at="2023-10-14T09:13:39 IST" duration-ms="135">
+    <groups>
+    </groups>
+    <test started-at="2023-10-14T09:13:39 IST" name="Default test" finished-at="2023-10-14T09:13:39 IST" duration-ms="135">
+      <class name="suboltest.ClassA">
+        <test-method signature="methodAone()[pri:1, instance:suboltest.ClassA@55634720]" started-at="2023-10-14T09:13:39 IST" name="methodAone" finished-at="2023-10-14T09:13:39 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodAone -->
+        <test-method signature="methodATwo()[pri:2, instance:suboltest.ClassA@55634720]" started-at="2023-10-14T09:13:39 IST" name="methodATwo" finished-at="2023-10-14T09:13:39 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodATwo -->
+        <test-method signature="methodAThree()[pri:3, instance:suboltest.ClassA@55634720]" started-at="2023-10-14T09:13:39 IST" name="methodAThree" finished-at="2023-10-14T09:13:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodAThree -->
+      </class> <!-- suboltest.ClassA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

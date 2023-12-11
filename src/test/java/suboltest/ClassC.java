@@ -1,0 +1,22 @@
+package suboltest;
+
+import org.testng.annotations.Test;
+
+public class ClassC {
+
+	@Test(priority =1)	
+	public void methodCone()
+	{
+		
+		System.out.println("ClassC- methodCOne");
+		
+	}
+	@Test(priority=2)
+	public void methodCTwo()
+	{
+		
+		System.out.println("ClassC- methodCTwo");
+		
+	
+}
+}
